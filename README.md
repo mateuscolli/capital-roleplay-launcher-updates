@@ -6,5 +6,5 @@ Launcher Minecraft para o servidor [Capital Roleplay](https://discord.gg/hTp5PYP
 ![Launcher](image.png)
 
 ## 📝 License
-Copyright © Pixelmon Heroes<br/>
+Copyright © Capital Roleplay<br/>
 Esse projeto é licenciado pelo [MIT](https://choosealicense.com/licenses/mit/)
